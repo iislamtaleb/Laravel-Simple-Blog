@@ -1,0 +1,50 @@
+@media (min-width: 576px) {
+  .navbar {
+  }
+}
+
+.navbar {
+}
+
+.seach-input {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+}
+
+.search-bar {
+  display: flex;
+  width: 30%;
+  justify-content: center;
+  margin-left: 450px;
+}
+
+@media (min-width: 768px) {
+  .search-bar {
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    margin-left: 450px;
+  }
+}
+
+@media (min-width: 992px) {
+  .search-bar {
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    margin-left: 350px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .search-bar {
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    margin-left: 400px;
+  }
+}
+
